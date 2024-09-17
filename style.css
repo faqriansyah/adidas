@@ -15,7 +15,7 @@ body {
 /* Navigation */
 .navbar {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 20px;
     background-color: #fff;
